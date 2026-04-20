@@ -1,0 +1,14 @@
+# Bitget 币格交易所 - 可选代理规则集
+# 适用于 OpenClash / Clash ini 格式
+# 包含官网、API、WebSocket、App 常用域名
+# 更新日期: 2026-04-20
+
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitget.me
+DOMAIN-SUFFIX,api.bitget.com
+DOMAIN-SUFFIX,ws.bitget.com
+DOMAIN-SUFFIX,capi.bitget.com
+DOMAIN-SUFFIX,www.bitget.com
+DOMAIN,app.bitget.com
+DOMAIN-SUFFIX,bitgetapi.com
+DOMAIN-SUFFIX,bitgetlimited.com
